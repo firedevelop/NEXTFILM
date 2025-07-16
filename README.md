@@ -1,14 +1,30 @@
-# 🎬 NEXTFILM - Netflix-Style Movie Discovery App
+<div align="center">
+
+<img src="public/images/logo.svg" alt="NEXTFILM Logo" width="120"/>
+
+# NEXTFILM
 ![NEXTFILM Preview](./public/images/screen-013.png)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF.svg)](https://vitejs.dev/)
 [![TMDb API](https://img.shields.io/badge/TMDb%20API-v3-01b4e4.svg)](https://www.themoviedb.org/)
 
-> A modern, Netflix-inspired movie discovery web application built with React, TypeScript, and Vite. Features real-time movie data from The Movie Database (TMDb) API with a stunning responsive design.
+> React, Netflix-inspired movie discovery web application built with React, TypeScript, and Vite. Features real-time movie data from The Movie Database (TMDb) API with a stunning responsive design.
 
-# 🚀 ![LIVE PREVIEW](https://nextfilm2.netlify.app)
-
+# [🚀 Live Demo](https://nextfilm2.netlify.app/) 
+</div>
+## 📸 Screenshots
+---
+<p align="center">
+<img src="public/images/screen-002.jpg" alt="Screenshot 3" width="700"/>
+<img src="public/images/screen-003.jpg" alt="Screenshot 4" width="300"/>
+<img src="public/images/screen-006.png" alt="Screenshot 5" width="300"/>
+<img src="public/images/screen-007.png" alt="Screenshot 6" width="300"/>
+<img src="public/images/screen-008.png" alt="Screenshot 6" width="300"/>
+<img src="public/images/screen-009.png" alt="Screenshot 6" width="300"/>
+<img src="public/images/screen-011.png" alt="Screenshot 6" width="300"/>
+  <img src="public/images/screen-001.png" alt="Screenshot 1" width="700"/>
+</p>
 ## ✨ Features
 
 ### � Core Functionality
