@@ -12,17 +12,17 @@
 
 # [🚀 Live Demo](https://nextfilm2.netlify.app/) 
 </div>
+
 ## 📸 Screenshots
 ---
 <p align="center">
 <img src="public/images/screen-002.jpg" alt="Screenshot 3" width="700"/>
-<img src="public/images/screen-003.jpg" alt="Screenshot 4" width="300"/>
-<img src="public/images/screen-006.png" alt="Screenshot 5" width="300"/>
-<img src="public/images/screen-007.png" alt="Screenshot 6" width="300"/>
-<img src="public/images/screen-008.png" alt="Screenshot 6" width="300"/>
-<img src="public/images/screen-009.png" alt="Screenshot 6" width="300"/>
-<img src="public/images/screen-011.png" alt="Screenshot 6" width="300"/>
-  <img src="public/images/screen-001.png" alt="Screenshot 1" width="700"/>
+<img src="public/images/screen-006.png" alt="Screenshot 5" width="700"/>
+<img src="public/images/screen-007.png" alt="Screenshot 6" width="700"/>
+<img src="public/images/screen-008.png" alt="Screenshot 6" width="700"/>
+<img src="public/images/screen-009.png" alt="Screenshot 6" width="700"/>
+<img src="public/images/screen-011.png" alt="Screenshot 6" width="700"/>
+  <img src="public/images/screen-001.png" alt="Screenshot 1" width="300"/>
 </p>
 ## ✨ Features
 
