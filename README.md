@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="public/images/screen-013.png" alt="NEXTFILM Logo" width="120"/>
+<img src="public/images/screen-013.png" alt="NEXTFILM Logo" width="250"/>
 
 # NEXTFILM
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
