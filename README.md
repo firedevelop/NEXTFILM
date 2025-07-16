@@ -1,7 +1,6 @@
 <div align="center">
-<img src="public/images/screen-013.png" alt="NEXTFILM Logo" width="250"/>
+<img src="public/images/screen-013.png" alt="NEXTFILM" width="250"/>
 
-# NEXTFILM
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF.svg)](https://vitejs.dev/)
@@ -21,7 +20,12 @@
 <img src="public/images/screen-008.png" alt="Screenshot 6" width="700"/>
 <img src="public/images/screen-009.png" alt="Screenshot 6" width="700"/>
 <img src="public/images/screen-011.png" alt="Screenshot 6" width="700"/>
-  <img src="public/images/screen-001.png" alt="Screenshot 1" width="300"/>
+<img src="public/images/screen-001.png" alt="Screenshot 1" width="300"/>
+<img src="public/images/screen-004.png" alt="Screenshot 1" width="300"/>
+<img src="public/images/screen-014.png" alt="Screenshot 1" width="700"/>
+<img src="public/images/screen-015.png" alt="Screenshot 1" width="230"/>
+<img src="public/images/screen-016.png" alt="Screenshot 1" width="230"/>
+<img src="public/images/screen-017.png" alt="Screenshot 1" width="230"/>
 </p>
 ## ✨ Features
 
