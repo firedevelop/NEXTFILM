@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="public/images/logo.svg" alt="NEXTFILM Logo" width="120"/>
+<img src="public/images/screen-013.png" alt="NEXTFILM Logo" width="120"/>
 
 # NEXTFILM
-![NEXTFILM Preview](./public/images/screen-013.png)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF.svg)](https://vitejs.dev/)
