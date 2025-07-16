@@ -136,8 +136,22 @@ NEXTFILM/
    ```
 
 3. **Environment Setup**
-   - The application includes pre-configured TMDb API credentials
-   - For production use, configure your own API keys in the service files
+   Create a `.env` file in the root directory:
+   ```bash
+   cp .env.example .env
+   ```
+   
+   Then edit `.env` and add your TMDb credentials:
+   ```env
+   VITE_TMDB_ACCESS_TOKEN=your_tmdb_access_token_here
+   VITE_TMDB_API_KEY=your_tmdb_api_key_here
+   ```
+   
+   **Get your TMDb API credentials:**
+   - Sign up at [TMDb](https://www.themoviedb.org/)
+   - Go to Settings > API
+   - Request an API key (free)
+   - Copy your Access Token and API Key to the `.env` file
 
 4. **Start development server**
    ```bash

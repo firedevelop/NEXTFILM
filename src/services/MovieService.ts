@@ -5,7 +5,13 @@ import { SearchParams } from '../types'
 // Configuración de la API
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3'
 const TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'
-const TMDB_ACCESS_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZjcyZWYzMmIxYzA1OGQwNmVhYzQxZjQ0ODc5MzYwYyIsIm5iZiI6MTc1MjYwNDk3Ni43ODMsInN1YiI6IjY4NzZhMTMwM2Y2ZDEwNWMzYzAzYjg4YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Or5ixO1I4dA2zVHAHoXlh_qC_Za_MdqxVnYby-CBTZo'
+
+// Obtener el token desde las variables de entorno
+const TMDB_ACCESS_TOKEN = import.meta.env.VITE_TMDB_ACCESS_TOKEN || ''
+
+if (!TMDB_ACCESS_TOKEN) {
+    console.error('❌ TMDB_ACCESS_TOKEN no está configurado en las variables de entorno')
+}
 
 // Configuración de axios
 const tmdbApi = axios.create({
